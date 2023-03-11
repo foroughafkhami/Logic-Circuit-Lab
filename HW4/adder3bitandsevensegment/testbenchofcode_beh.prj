@@ -1,0 +1,3 @@
+vhdl work "fa.vhd"
+vhdl work "fa3bitanddecoderhextosevensegment.vhd"
+vhdl work "testbenchofcode.vhd"

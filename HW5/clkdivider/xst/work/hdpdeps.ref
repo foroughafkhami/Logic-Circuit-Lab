@@ -1,0 +1,6 @@
+V3 3
+FL D:/hwfive/clkdivider/clkdivider.vhd 2021/12/05.19:47:42 P.20131013
+EN work/clkdivider 1638723646 FL D:/hwfive/clkdivider/clkdivider.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/clkdivider/Behavioral 1638723647 \
+      FL D:/hwfive/clkdivider/clkdivider.vhd EN work/clkdivider 1638723646

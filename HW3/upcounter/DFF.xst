@@ -1,0 +1,5 @@
+set -tmpdir "D:/hw31/upcounter/xst/projnav.tmp"
+set -xsthdpdir "D:/hw31/upcounter/xst"
+elaborate
+-ifn DFF.prj
+-ifmt mixed

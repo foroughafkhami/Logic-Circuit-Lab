@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/hwone/encoder4to3/encoder4to3.xst" -ofn "D:/hwone/encoder4to3/encoder4to3.syr" 
+xst -intstyle ise -ifn "D:/hwone/encoder4to3/encoder4to3.xst" -ofn "D:/hwone/encoder4to3/encoder4to3.syr" 

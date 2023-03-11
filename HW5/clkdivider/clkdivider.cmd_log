@@ -1,0 +1,22 @@
+xst -intstyle ise -ifn "D:/hwfive/clkdivider/clkdivider.xst" -ofn "D:/hwfive/clkdivider/clkdivider.syr" 
+xst -intstyle ise -ifn "D:/hwfive/clkdivider/clkdivider.xst" -ofn "D:/hwfive/clkdivider/clkdivider.syr" 
+xst -intstyle ise -ifn "D:/hwfive/clkdivider/clkdivider.xst" -ofn "D:/hwfive/clkdivider/clkdivider.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 clkdivider.ngc clkdivider.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o clkdivider_map.ncd clkdivider.ngd clkdivider.pcf 
+par -w -intstyle ise -ol high -t 1 clkdivider_map.ncd clkdivider.ncd clkdivider.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml clkdivider.twx clkdivider.ncd -o clkdivider.twr clkdivider.pcf 
+xst -intstyle ise -ifn "D:/hwfive/clkdivider/clkdivider.xst" -ofn "D:/hwfive/clkdivider/clkdivider.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 clkdivider.ngc clkdivider.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o clkdivider_map.ncd clkdivider.ngd clkdivider.pcf 
+par -w -intstyle ise -ol high -t 1 clkdivider_map.ncd clkdivider.ncd clkdivider.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml clkdivider.twx clkdivider.ncd -o clkdivider.twr clkdivider.pcf 
+xst -intstyle ise -ifn "D:/hwfive/clkdivider/clkdivider.xst" -ofn "D:/hwfive/clkdivider/clkdivider.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 clkdivider.ngc clkdivider.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o clkdivider_map.ncd clkdivider.ngd clkdivider.pcf 
+par -w -intstyle ise -ol high -t 1 clkdivider_map.ncd clkdivider.ncd clkdivider.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml clkdivider.twx clkdivider.ncd -o clkdivider.twr clkdivider.pcf 
+xst -intstyle ise -ifn "D:/hwfive/clkdivider/clkdivider.xst" -ofn "D:/hwfive/clkdivider/clkdivider.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 clkdivider.ngc clkdivider.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o clkdivider_map.ncd clkdivider.ngd clkdivider.pcf 
+par -w -intstyle ise -ol high -t 1 clkdivider_map.ncd clkdivider.ncd clkdivider.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml clkdivider.twx clkdivider.ncd -o clkdivider.twr clkdivider.pcf 

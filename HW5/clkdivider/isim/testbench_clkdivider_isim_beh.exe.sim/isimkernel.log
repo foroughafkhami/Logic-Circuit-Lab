@@ -1,0 +1,28 @@
+Command line:
+   testbench_clkdivider_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3784
+
+Sun Dec 05 20:31:28 2021
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5164.16 Meg
+
+ Total Signals          : 26
+ Total Nets             : 24
+ Total Signal Drivers   : 23
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 385
+
+ Total Simulation Time: 0.828125 sec
+
+ Current Memory Usage: 4692.3 Meg
+
+Sun Dec 05 21:33:53 2021
+

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/hw31/upcounter/DFF.xst" -ofn "D:/hw31/upcounter/DFF.syr" 

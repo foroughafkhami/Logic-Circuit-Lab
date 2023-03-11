@@ -1,0 +1,16 @@
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 comparator.ngc comparator.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o comparator_map.ncd comparator.ngd comparator.pcf 
+par -w -intstyle ise -ol high -t 1 comparator_map.ncd comparator.ncd comparator.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml comparator.twx comparator.ncd -o comparator.twr comparator.pcf 
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+xst -intstyle ise -ifn "D:/hw32/comparator2bit/comparator.xst" -ofn "D:/hw32/comparator2bit/comparator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 comparator.ngc comparator.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o comparator_map.ncd comparator.ngd comparator.pcf 
+par -w -intstyle ise -ol high -t 1 comparator_map.ncd comparator.ncd comparator.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml comparator.twx comparator.ncd -o comparator.twr comparator.pcf 

@@ -1,0 +1,6 @@
+V3 3
+FL D:/hw32/comparator2bit/comparator.vhd 2021/11/20.18:14:39 P.20131013
+EN work/comparator 1637419482 FL D:/hw32/comparator2bit/comparator.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/comparator/Behavioral 1637419483 \
+      FL D:/hw32/comparator2bit/comparator.vhd EN work/comparator 1637419482

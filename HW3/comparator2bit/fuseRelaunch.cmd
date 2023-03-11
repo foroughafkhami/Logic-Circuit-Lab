@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/hw32/comparator2bit/testbenchofcomparator_isim_beh.exe" -prj "D:/hw32/comparator2bit/testbenchofcomparator_beh.prj" "work.testbenchofcomparator" 

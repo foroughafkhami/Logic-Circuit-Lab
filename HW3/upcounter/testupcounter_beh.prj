@@ -1,0 +1,3 @@
+vhdl work "dff.vhd"
+vhdl work "upcounter.vhd"
+vhdl work "testupcounter.vhd"

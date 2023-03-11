@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/hwfive/clkdivider/testbench_clkdivider_isim_beh.exe" -prj "D:/hwfive/clkdivider/testbench_clkdivider_beh.prj" "work.testbench_clkdivider" 

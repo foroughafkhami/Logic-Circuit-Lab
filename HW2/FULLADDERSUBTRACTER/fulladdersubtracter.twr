@@ -1,0 +1,92 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 5
+-n 3 -fastpaths -xml fulladdersubtracter.twx fulladdersubtracter.ncd -o
+fulladdersubtracter.twr fulladdersubtracter.pcf
+
+Design file:              fulladdersubtracter.ncd
+Physical constraint file: fulladdersubtracter.pcf
+Device,package,speed:     xc3s50,pq208,-5 (PRODUCTION 1.39 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+A1<0>          |Cout1          |    9.093|
+A1<0>          |S1<0>          |    7.106|
+A1<0>          |S1<1>          |    8.114|
+A1<0>          |S1<2>          |    8.712|
+A1<0>          |S1<3>          |    9.152|
+A1<1>          |Cout1          |    8.438|
+A1<1>          |S1<1>          |    7.232|
+A1<1>          |S1<2>          |    8.057|
+A1<1>          |S1<3>          |    8.497|
+A1<2>          |Cout1          |    7.864|
+A1<2>          |S1<2>          |    7.038|
+A1<2>          |S1<3>          |    7.923|
+A1<3>          |Cout1          |    7.182|
+A1<3>          |S1<3>          |    7.513|
+B1<0>          |Cout1          |    8.785|
+B1<0>          |S1<0>          |    6.778|
+B1<0>          |S1<1>          |    7.806|
+B1<0>          |S1<2>          |    8.404|
+B1<0>          |S1<3>          |    8.844|
+B1<1>          |Cout1          |    8.585|
+B1<1>          |S1<1>          |    7.122|
+B1<1>          |S1<2>          |    8.204|
+B1<1>          |S1<3>          |    8.644|
+B1<2>          |Cout1          |    7.965|
+B1<2>          |S1<2>          |    7.432|
+B1<2>          |S1<3>          |    8.024|
+B1<3>          |Cout1          |    6.658|
+B1<3>          |S1<3>          |    6.917|
+K              |Cout1          |    9.129|
+K              |S1<1>          |    8.150|
+K              |S1<2>          |    8.748|
+K              |S1<3>          |    9.188|
+---------------+---------------+---------+
+
+
+Analysis completed Sun Nov 14 20:15:14 2021 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4470 MB
+
+
+

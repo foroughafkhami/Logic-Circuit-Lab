@@ -1,0 +1,5 @@
+set -tmpdir "D:/hwseven/sevensegment/xst/projnav.tmp"
+set -xsthdpdir "D:/hwseven/sevensegment/xst"
+elaborate
+-ifn FA5bit.prj
+-ifmt mixed

@@ -1,0 +1,2 @@
+vhdl work "encoder4to3.vhd"
+vhdl work "test_encoder.vhd"

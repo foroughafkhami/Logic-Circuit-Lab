@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/hw4/adder3bitandsevensegment/testbenchofcode_isim_beh.exe" -prj "D:/hw4/adder3bitandsevensegment/testbenchofcode_beh.prj" "work.testbenchofcode" 

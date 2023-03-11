@@ -1,0 +1,16 @@
+V3 11
+FL D:/hwseven/sevensegment/FA.vhd 2021/12/12.17:42:12 P.20131013
+EN work/FA 1639320763 FL D:/hwseven/sevensegment/FA.vhd PB ieee/std_logic_1164 1381692176
+AR work/FA/Behavioral 1639320764 \
+      FL D:/hwseven/sevensegment/FA.vhd EN work/FA 1639320763
+FL D:/hwseven/sevensegment/FA5bit.vhd 2021/12/12.17:50:02 P.20131013
+EN work/FA5bit 1639320765 FL D:/hwseven/sevensegment/FA5bit.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FA5bit/Behavioral 1639320766 \
+      FL D:/hwseven/sevensegment/FA5bit.vhd EN work/FA5bit 1639320765 CP FA
+FL D:/hwseven/sevensegment/sevensegment.vhd 2021/12/12.18:22:40 P.20131013
+EN work/sevensegment 1639320767 FL D:/hwseven/sevensegment/sevensegment.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/sevensegment/Behavioral 1639320768 \
+      FL D:/hwseven/sevensegment/sevensegment.vhd EN work/sevensegment 1639320767 \
+      CP FA5bit

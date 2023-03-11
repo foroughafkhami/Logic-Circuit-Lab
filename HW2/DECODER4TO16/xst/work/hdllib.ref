@@ -1,0 +1,4 @@
+EN decoder2to4 NULL D:/HWTWOTWO/decoder4to16/decoder2to4.vhd sub00/vhpl00 1636915936
+EN decoder4to16 NULL D:/HWTWOTWO/decoder4to16/decoder4to16.vhd sub00/vhpl02 1636915938
+AR decoder4to16 behavioral D:/HWTWOTWO/decoder4to16/decoder4to16.vhd sub00/vhpl03 1636915939
+AR decoder2to4 behavioral D:/HWTWOTWO/decoder4to16/decoder2to4.vhd sub00/vhpl01 1636915937

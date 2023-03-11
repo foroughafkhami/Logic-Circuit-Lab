@@ -1,0 +1,6 @@
+V3 3
+FL D:/hwone/encoder4to3/encoder4to3.vhd 2021/10/29.22:22:56 P.20131013
+EN work/encoder4to3 1635533579 FL D:/hwone/encoder4to3/encoder4to3.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/encoder4to3/Behavioral 1635533580 \
+      FL D:/hwone/encoder4to3/encoder4to3.vhd EN work/encoder4to3 1635533579

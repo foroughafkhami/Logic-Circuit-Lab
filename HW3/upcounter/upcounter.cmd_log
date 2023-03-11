@@ -1,0 +1,53 @@
+xst -intstyle ise -ifn "D:/hw31/upcounter/upcounter.xst" -ofn "D:/hw31/upcounter/upcounter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+xst -intstyle ise -ifn "D:/hw31/upcounter/upcounter.xst" -ofn "D:/hw31/upcounter/upcounter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+xst -intstyle ise -ifn "D:/hw31/upcounter/upcounter.xst" -ofn "D:/hw31/upcounter/upcounter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+xst -intstyle ise -ifn "D:/hw31/upcounter/upcounter.xst" -ofn "D:/hw31/upcounter/upcounter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 
+xst -intstyle ise -ifn "D:/hw31/upcounter/upcounter.xst" -ofn "D:/hw31/upcounter/upcounter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 upcounter.ngc upcounter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o upcounter_map.ncd upcounter.ngd upcounter.pcf 
+par -w -intstyle ise -ol high -t 1 upcounter_map.ncd upcounter.ncd upcounter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml upcounter.twx upcounter.ncd -o upcounter.twr upcounter.pcf 

@@ -1,0 +1,4 @@
+vhdl isim_temp "FA.vhd"
+vhdl isim_temp "FA5bit.vhd"
+vhdl isim_temp "sevensegment.vhd"
+vhdl isim_temp "seventestbench.vhd"

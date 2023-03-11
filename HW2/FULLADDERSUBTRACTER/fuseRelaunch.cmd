@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/hwtwo/fulladdersubtracter/testfulladdersubtracter_isim_beh.exe" -prj "D:/hwtwo/fulladdersubtracter/testfulladdersubtracter_beh.prj" "work.testfulladdersubtracter" 

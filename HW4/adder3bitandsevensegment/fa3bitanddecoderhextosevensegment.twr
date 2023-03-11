@@ -1,0 +1,110 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 5
+-n 3 -fastpaths -xml fa3bitanddecoderhextosevensegment.twx
+fa3bitanddecoderhextosevensegment.ncd -o fa3bitanddecoderhextosevensegment.twr
+fa3bitanddecoderhextosevensegment.pcf
+
+Design file:              fa3bitanddecoderhextosevensegment.ncd
+Physical constraint file: fa3bitanddecoderhextosevensegment.pcf
+Device,package,speed:     xc3s50,pq208,-5 (PRODUCTION 1.39 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+A1<0>          |outdecoder<0>  |    9.653|
+A1<0>          |outdecoder<1>  |    9.941|
+A1<0>          |outdecoder<2>  |    9.636|
+A1<0>          |outdecoder<3>  |    9.942|
+A1<0>          |outdecoder<4>  |   10.013|
+A1<0>          |outdecoder<5>  |    9.942|
+A1<0>          |outdecoder<6>  |    9.942|
+A1<1>          |outdecoder<0>  |    8.544|
+A1<1>          |outdecoder<1>  |    8.832|
+A1<1>          |outdecoder<2>  |    8.527|
+A1<1>          |outdecoder<3>  |    8.833|
+A1<1>          |outdecoder<4>  |    8.904|
+A1<1>          |outdecoder<5>  |    8.833|
+A1<1>          |outdecoder<6>  |    8.833|
+A1<2>          |outdecoder<0>  |    8.019|
+A1<2>          |outdecoder<1>  |    8.307|
+A1<2>          |outdecoder<2>  |    8.002|
+A1<2>          |outdecoder<3>  |    8.308|
+A1<2>          |outdecoder<4>  |    8.379|
+A1<2>          |outdecoder<5>  |    8.308|
+A1<2>          |outdecoder<6>  |    8.308|
+B1<0>          |outdecoder<0>  |    9.704|
+B1<0>          |outdecoder<1>  |    9.992|
+B1<0>          |outdecoder<2>  |    9.687|
+B1<0>          |outdecoder<3>  |    9.993|
+B1<0>          |outdecoder<4>  |   10.064|
+B1<0>          |outdecoder<5>  |    9.993|
+B1<0>          |outdecoder<6>  |    9.993|
+B1<1>          |outdecoder<0>  |    8.131|
+B1<1>          |outdecoder<1>  |    8.419|
+B1<1>          |outdecoder<2>  |    8.114|
+B1<1>          |outdecoder<3>  |    8.420|
+B1<1>          |outdecoder<4>  |    8.491|
+B1<1>          |outdecoder<5>  |    8.420|
+B1<1>          |outdecoder<6>  |    8.420|
+B1<2>          |outdecoder<0>  |    7.474|
+B1<2>          |outdecoder<1>  |    7.762|
+B1<2>          |outdecoder<2>  |    7.457|
+B1<2>          |outdecoder<3>  |    7.763|
+B1<2>          |outdecoder<4>  |    7.834|
+B1<2>          |outdecoder<5>  |    7.763|
+B1<2>          |outdecoder<6>  |    7.763|
+cin            |outdecoder<0>  |    9.519|
+cin            |outdecoder<1>  |    9.807|
+cin            |outdecoder<2>  |    9.502|
+cin            |outdecoder<3>  |    9.808|
+cin            |outdecoder<4>  |    9.879|
+cin            |outdecoder<5>  |    9.808|
+cin            |outdecoder<6>  |    9.808|
+---------------+---------------+---------+
+
+
+Analysis completed Sun Nov 28 18:19:12 2021 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4470 MB
+
+
+

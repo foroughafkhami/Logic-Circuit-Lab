@@ -1,0 +1,53 @@
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 fulladdersubtracter.ngc fulladdersubtracter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o fulladdersubtracter_map.ncd fulladdersubtracter.ngd fulladdersubtracter.pcf 
+par -w -intstyle ise -ol high -t 1 fulladdersubtracter_map.ncd fulladdersubtracter.ncd fulladdersubtracter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml fulladdersubtracter.twx fulladdersubtracter.ncd -o fulladdersubtracter.twr fulladdersubtracter.pcf 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 fulladdersubtracter.ngc fulladdersubtracter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o fulladdersubtracter_map.ncd fulladdersubtracter.ngd fulladdersubtracter.pcf 
+par -w -intstyle ise -ol high -t 1 fulladdersubtracter_map.ncd fulladdersubtracter.ncd fulladdersubtracter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml fulladdersubtracter.twx fulladdersubtracter.ncd -o fulladdersubtracter.twr fulladdersubtracter.pcf 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+xst -intstyle ise -ifn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.xst" -ofn "D:/hwtwo/fulladdersubtracter/fulladdersubtracter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 fulladdersubtracter.ngc fulladdersubtracter.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o fulladdersubtracter_map.ncd fulladdersubtracter.ngd fulladdersubtracter.pcf 
+par -w -intstyle ise -ol high -t 1 fulladdersubtracter_map.ncd fulladdersubtracter.ncd fulladdersubtracter.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml fulladdersubtracter.twx fulladdersubtracter.ncd -o fulladdersubtracter.twr fulladdersubtracter.pcf 

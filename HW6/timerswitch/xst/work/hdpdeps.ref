@@ -1,0 +1,6 @@
+V3 3
+FL D:/finalsix/timerswitch/timerswitch.vhd 2021/12/12.13:01:37 P.20131013
+EN work/timerswitch 1639301499 FL D:/finalsix/timerswitch/timerswitch.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/timerswitch/Behavioral 1639301500 \
+      FL D:/finalsix/timerswitch/timerswitch.vhd EN work/timerswitch 1639301499

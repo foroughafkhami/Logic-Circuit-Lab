@@ -1,0 +1,3 @@
+vhdl isim_temp "fa.vhd"
+vhdl isim_temp "fa3bitanddecoderhextosevensegment.vhd"
+vhdl isim_temp "testbenchofcode.vhd"

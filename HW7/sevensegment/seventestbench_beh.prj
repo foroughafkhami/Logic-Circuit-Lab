@@ -1,0 +1,4 @@
+vhdl work "FA.vhd"
+vhdl work "FA5bit.vhd"
+vhdl work "sevensegment.vhd"
+vhdl work "seventestbench.vhd"

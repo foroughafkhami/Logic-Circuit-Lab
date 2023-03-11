@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="adder3bitandsevensegment.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="fa.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="fa.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="fa.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="fa.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="fa.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="fa.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="fa.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="fa.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="fa.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fa.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="fa.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="fa.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="fa.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="fa.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="fa.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="fa.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="fa3bitanddecoderhextosevensegment.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="fa3bitanddecoderhextosevensegment.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="fa3bitanddecoderhextosevensegment.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="fa3bitanddecoderhextosevensegment.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="fa3bitanddecoderhextosevensegment.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="fa3bitanddecoderhextosevensegment.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="fa3bitanddecoderhextosevensegment.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="fa3bitanddecoderhextosevensegment.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="fa3bitanddecoderhextosevensegment.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fa3bitanddecoderhextosevensegment.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="fa3bitanddecoderhextosevensegment.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="fa3bitanddecoderhextosevensegment.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="fa3bitanddecoderhextosevensegment.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="fa3bitanddecoderhextosevensegment.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="fa3bitanddecoderhextosevensegment.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="fa3bitanddecoderhextosevensegment_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="fa3bitanddecoderhextosevensegment_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="fa3bitanddecoderhextosevensegment_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="fa3bitanddecoderhextosevensegment_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fa3bitanddecoderhextosevensegment_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fa3bitanddecoderhextosevensegment_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fa3bitanddecoderhextosevensegment_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="fa3bitanddecoderhextosevensegment_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="fa3bitanddecoderhextosevensegment_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="fa3bitanddecoderhextosevensegment_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fa3bitanddecoderhextosevensegment_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fa3bitanddecoderhextosevensegment_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="fa_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="fa_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="fa_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="fa_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="fa_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="fa_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="fa_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="fa_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fa_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fa_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testbenchofcode_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="testbenchofcode_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="testbenchofcode_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testbenchofcode_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1638110055" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1638110055">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110958" xil_pn:in_ck="-6947229284672738139" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1638110958">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fa.vhd"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.vhd"/>
+      <outfile xil_pn:name="testbenchofcode.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110481" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-1723203092216679930" xil_pn:start_ts="1638110481">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110481" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-6857669232804123458" xil_pn:start_ts="1638110481">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110055" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-4056542420825797847" xil_pn:start_ts="1638110055">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110963" xil_pn:in_ck="-6947229284672738139" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1638110963">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fa.vhd"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.vhd"/>
+      <outfile xil_pn:name="testbenchofcode.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110972" xil_pn:in_ck="-6947229284672738139" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="4598963118772245705" xil_pn:start_ts="1638110963">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="testbenchofcode_beh.prj"/>
+      <outfile xil_pn:name="testbenchofcode_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1638111091" xil_pn:in_ck="-700611784155571233" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="8060468805977810006" xil_pn:start_ts="1638111091">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="testbenchofcode_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1638108008" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1638108008">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638109923" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="178275222795562457" xil_pn:start_ts="1638109923">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638109923" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-4056542420825797847" xil_pn:start_ts="1638109923">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638108008" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1638108008">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638109923" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-7664673219672004063" xil_pn:start_ts="1638109923">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638108008" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="4779560239316253549" xil_pn:start_ts="1638108008">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638109923" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-4193353475669408461" xil_pn:start_ts="1638109923">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110918" xil_pn:in_ck="803265637685913029" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-1977905479154939833" xil_pn:start_ts="1638110897">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="fa.ngr"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.lso"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.ngc"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.ngr"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.prj"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.stx"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.syr"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.xst"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_vhdl.prj"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1638109991" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-6935274260303001802" xil_pn:start_ts="1638109991">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110932" xil_pn:in_ck="919268274500702001" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="4630580176576604081" xil_pn:start_ts="1638110925">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.bld"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.ngd"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110941" xil_pn:in_ck="-3088155661319668781" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-7868858794111860816" xil_pn:start_ts="1638110932">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.pcf"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_map.map"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_map.mrp"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_map.ncd"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_map.ngm"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_map.xrpt"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_summary.xml"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110953" xil_pn:in_ck="-3619241053419186107" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="3266239339701135281" xil_pn:start_ts="1638110941">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.ncd"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.pad"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.par"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.ptwx"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.unroutes"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.xpi"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_pad.csv"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_pad.txt"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1638110953" xil_pn:in_ck="-9063774270607722421" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416187" xil_pn:start_ts="1638110949">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.twr"/>
+      <outfile xil_pn:name="fa3bitanddecoderhextosevensegment.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

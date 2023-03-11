@@ -1,0 +1,3 @@
+vhdl isim_temp "dff.vhd"
+vhdl isim_temp "upcounter.vhd"
+vhdl isim_temp "testupcounter.vhd"

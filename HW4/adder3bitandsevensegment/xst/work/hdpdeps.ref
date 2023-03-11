@@ -1,0 +1,13 @@
+V3 7
+FL D:/hw4/adder3bitandsevensegment/fa.vhd 2021/11/28.17:30:07 P.20131013
+EN work/fa 1638110909 FL D:/hw4/adder3bitandsevensegment/fa.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/fa/Behavioral 1638110910 \
+      FL D:/hw4/adder3bitandsevensegment/fa.vhd EN work/fa 1638110909
+FL D:/hw4/adder3bitandsevensegment/fa3bitanddecoderhextosevensegment.vhd 2021/11/28.18:18:16 P.20131013
+EN work/fa3bitanddecoderhextosevensegment 1638110911 \
+      FL D:/hw4/adder3bitandsevensegment/fa3bitanddecoderhextosevensegment.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/fa3bitanddecoderhextosevensegment/Behavioral 1638110912 \
+      FL D:/hw4/adder3bitandsevensegment/fa3bitanddecoderhextosevensegment.vhd \
+      EN work/fa3bitanddecoderhextosevensegment 1638110911 CP fa

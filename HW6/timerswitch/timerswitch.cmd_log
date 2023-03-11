@@ -1,0 +1,52 @@
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+xst -intstyle ise -ifn "D:/finalsix/timerswitch/timerswitch.xst" -ofn "D:/finalsix/timerswitch/timerswitch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 timerswitch.ngc timerswitch.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o timerswitch_map.ncd timerswitch.ngd timerswitch.pcf 
+par -w -intstyle ise -ol high -t 1 timerswitch_map.ncd timerswitch.ncd timerswitch.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timerswitch.twx timerswitch.ncd -o timerswitch.twr timerswitch.pcf 

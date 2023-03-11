@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/hwone/encoder4to3/test_encoder_isim_beh.exe" -prj "D:/hwone/encoder4to3/test_encoder_beh.prj" "work.test_encoder" 
